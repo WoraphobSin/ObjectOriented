@@ -1,2 +1,2 @@
-# OrientObject
-My work from Orient-Object Programming Course
+# OrientedObject
+My work from Oriented-Object Programming Course
